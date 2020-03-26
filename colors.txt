@@ -2,4 +2,4 @@ black
 red
 pink
 
-
+https://github.com/HuseyinCivan/OnlineNewGitPractice2019.git
